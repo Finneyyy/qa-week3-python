@@ -1,4 +1,3 @@
-from tkinter import N
 from dice import dice
 
 def throw(n):
